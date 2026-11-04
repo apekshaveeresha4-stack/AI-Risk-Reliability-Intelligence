@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.vscode/
+data/raw/
+data/processed/*.csv
+data/processed/*.db
+risk analysis data analyis.csv
